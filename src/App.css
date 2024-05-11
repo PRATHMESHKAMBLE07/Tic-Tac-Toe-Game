@@ -1,0 +1,53 @@
+.Game-Heading
+{
+  font-family: Roboto',  sans-serif';
+  text-align: center;
+  color: white;  
+  font-size: 40px;
+  padding-top: 20px;
+}
+.img-container
+{
+  display: flex;
+  justify-content: center;
+  height: 70px;
+  padding: 20px 10px 20px 10px;
+}
+.main-section{
+  display: flex;
+  justify-content: center;
+  align-items: cente;
+
+}
+.Game-container{
+   height: 70vh;
+   width: 50vw;
+   border-radius: 20px;
+   margin-left: 300px;
+
+
+
+   /* background:transparent; */
+   backdrop-filter: blur(10px);
+   border: 2px solid white;
+  box-shadow: 1px 1px 1px 1px whitesmoke;
+}
+.player-section{
+  width:100% ;
+  height: 20%;
+  color: white;
+  padding: 20px 10px 10px 10px;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.game-section{
+  height: 350px;
+  width: 100%;
+  border-radius: 5%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

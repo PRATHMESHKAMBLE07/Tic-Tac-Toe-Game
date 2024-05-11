@@ -1,0 +1,14 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+
+
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: url('../public/image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
